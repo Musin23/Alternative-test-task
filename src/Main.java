@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-//Исправил и релизовал пункт 7.
+//Исправил и реализовал пункт 7.
 public class Main {
     public static boolean isNumeric(String strNum) {
         if (strNum == null) {
